@@ -1,9 +1,11 @@
 ---
 layout: default
+lang: en
 title: TrayReach Privacy Policy
 ---
 
-[支持 / Support](index.html) · [中文](privacy-zh.html) · [English](privacy-en.html)
+
+<style>.markdown-body > h1:first-child:has(> a) { display: none; }</style>
 
 # TrayReach Privacy Policy
 
